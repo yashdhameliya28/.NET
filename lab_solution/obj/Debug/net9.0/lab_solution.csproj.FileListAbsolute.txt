@@ -1,0 +1,14 @@
+D:\SEM 5\.NET\lab_solution\bin\Debug\net9.0\lab_solution.exe
+D:\SEM 5\.NET\lab_solution\bin\Debug\net9.0\lab_solution.deps.json
+D:\SEM 5\.NET\lab_solution\bin\Debug\net9.0\lab_solution.runtimeconfig.json
+D:\SEM 5\.NET\lab_solution\bin\Debug\net9.0\lab_solution.dll
+D:\SEM 5\.NET\lab_solution\bin\Debug\net9.0\lab_solution.pdb
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.AssemblyInfoInputs.cache
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.AssemblyInfo.cs
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.csproj.CoreCompileInputs.cache
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.dll
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\refint\lab_solution.dll
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.pdb
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\lab_solution.genruntimeconfig.cache
+D:\SEM 5\.NET\lab_solution\obj\Debug\net9.0\ref\lab_solution.dll
