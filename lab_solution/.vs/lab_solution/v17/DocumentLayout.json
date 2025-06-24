@@ -1,7 +1,11 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SEM 5\\.NET\\lab_solution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024186EF-41FE-4E72-AC23-F28EC09F1C07}|..\\lab_5\\lab_5.csproj|d:\\sem 5\\.net\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +22,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM 5\\.NET\\lab_5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab_5\\Program.cs",
+              "ToolTip": "D:\\SEM 5\\.NET\\lab_5\\Program.cs",
+              "RelativeToolTip": "..\\lab_5\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:24:49.82Z",
+              "EditorCaption": ""
             }
           ]
         }

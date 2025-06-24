@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "D:\\SEM 5\\.NET\\lab_solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEA3D75D-CCBD-4E9F-9E86-323EB5896BFA}|..\\lab_3\\lab_3.csproj|d:\\sem 5\\.net\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEA3D75D-CCBD-4E9F-9E86-323EB5896BFA}|..\\lab_3\\lab_3.csproj|d:\\sem 5\\.net\\lab_3\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{024186EF-41FE-4E72-AC23-F28EC09F1C07}|..\\lab_5\\lab_5.csproj|d:\\sem 5\\.net\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,21 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SEM 5\\.NET\\lab_3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\lab_3\\Program.cs",
-              "ToolTip": "D:\\SEM 5\\.NET\\lab_3\\Program.cs",
-              "RelativeToolTip": "..\\lab_3\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:00:49.367Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -41,15 +25,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sum.cs",
-              "DocumentMoniker": "D:\\SEM 5\\.NET\\lab_3\\Sum.cs",
-              "RelativeDocumentMoniker": "..\\lab_3\\Sum.cs",
-              "ToolTip": "D:\\SEM 5\\.NET\\lab_3\\Sum.cs",
-              "RelativeToolTip": "..\\lab_3\\Sum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM 5\\.NET\\lab_5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab_5\\Program.cs",
+              "ToolTip": "D:\\SEM 5\\.NET\\lab_5\\Program.cs*",
+              "RelativeToolTip": "..\\lab_5\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:59:36.191Z",
+              "WhenOpened": "2025-06-24T02:24:49.82Z",
               "EditorCaption": ""
             }
           ]
